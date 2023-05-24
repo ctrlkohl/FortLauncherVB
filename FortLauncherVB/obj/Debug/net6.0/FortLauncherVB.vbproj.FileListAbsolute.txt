@@ -1,0 +1,15 @@
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\bin\Debug\net6.0\FortLauncherVB.exe
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\bin\Debug\net6.0\FortLauncherVB.deps.json
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\bin\Debug\net6.0\FortLauncherVB.runtimeconfig.json
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\bin\Debug\net6.0\FortLauncherVB.dll
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\bin\Debug\net6.0\FortLauncherVB.pdb
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\obj\Debug\net6.0\FortLauncherVB.vbproj.AssemblyReference.cache
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\obj\Debug\net6.0\FortLauncherVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\obj\Debug\net6.0\FortLauncherVB.AssemblyInfoInputs.cache
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\obj\Debug\net6.0\FortLauncherVB.AssemblyInfo.vb
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\obj\Debug\net6.0\FortLauncherVB.vbproj.CoreCompileInputs.cache
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\obj\Debug\net6.0\FortLauncherVB.dll
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\obj\Debug\net6.0\refint\FortLauncherVB.dll
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\obj\Debug\net6.0\FortLauncherVB.pdb
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\obj\Debug\net6.0\FortLauncherVB.genruntimeconfig.cache
+C:\Users\ctrlk\source\repos\FortLauncherVB\FortLauncherVB\obj\Debug\net6.0\ref\FortLauncherVB.dll
