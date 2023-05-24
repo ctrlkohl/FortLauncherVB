@@ -10,3 +10,4 @@ This can be used on Fortnite Private servers mainly, but Hybrid can happen if yo
 - Supports most C1 - C3 (19.10)<br>
 - UE4 Version Detection<br>
 - Custom Console Class which has smooth writing<br>
+- Discord RPC (Coming in a future commit)
