@@ -8,4 +8,5 @@ This can be used on Fortnite Private servers mainly, but Hybrid can happen if yo
 - Username and Password prompts (can change this to Email and Password easily)<br>
 - DLL Injection<br>
 - Supports most C1 - C3 (19.10)<br>
-- UE4 Version Detection
+- UE4 Version Detection<br>
+- Custom Console Class which has smooth writing<br>
